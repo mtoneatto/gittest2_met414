@@ -1,2 +1,7 @@
 whatever
+
 this is gonna go wrong...
+
+intentionally making changes to the cloud version of this document to generate a conflict with the remote version
+
+Hopefully this works
